@@ -1,0 +1,15 @@
+References
+kaggle notes - https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+             - https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
+             - https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
+             - 
+pandas doc - https://pandas.pydata.org/docs/reference/index.html#api
+seaborn doc - https://seaborn.pydata.org/api.html
+sklearn - https://scikit-learn.org/stable/modules/classes.html
+
+
+Think about the variables, analyse the SalePrice(dependent y variable) alone adn then with most correlated variables.
+Deal with missing data and outliers.
+Test some fundamental statistical assumptions
+Transform categorial variables into dummy variables.
+Prediction.
