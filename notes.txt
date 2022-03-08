@@ -9,6 +9,9 @@ sklearn - https://scikit-learn.org/stable/modules/classes.html
 
 graph  - https://bookdown.org/ejvanholm/Textbook/displaying-data.html
 
+
+check out one-hot encoding
+
 Think about the variables, analyse the SalePrice(dependent y variable) alone adn then with most correlated variables.
 Deal with missing data and outliers.
 Test some fundamental statistical assumptions
