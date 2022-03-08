@@ -2,11 +2,12 @@ References
 kaggle notes - https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
              - https://www.kaggle.com/serigne/stacked-regressions-top-4-on-leaderboard
              - https://www.kaggle.com/juliencs/a-study-on-regression-applied-to-the-ames-dataset
-             - 
+             - https://www.kaggle.com/elahehsha/house-price-linear-regression?scriptVersionId=84918732
 pandas doc - https://pandas.pydata.org/docs/reference/index.html#api
 seaborn doc - https://seaborn.pydata.org/api.html
 sklearn - https://scikit-learn.org/stable/modules/classes.html
 
+graph  - https://bookdown.org/ejvanholm/Textbook/displaying-data.html
 
 Think about the variables, analyse the SalePrice(dependent y variable) alone adn then with most correlated variables.
 Deal with missing data and outliers.
