@@ -9,6 +9,8 @@ sklearn - https://scikit-learn.org/stable/modules/classes.html
 
 graph  - https://bookdown.org/ejvanholm/Textbook/displaying-data.html
 
+qq plot - https://www.geeksforgeeks.org/qqplot-quantile-quantile-plot-in-python/
+guassian conversion and skewness - https://www.analyticsvidhya.com/blog/2021/05/how-to-transform-features-into-normal-gaussian-distribution/
 
 check out one-hot encoding
 
